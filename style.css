@@ -1,0 +1,31 @@
+
+.schedule-color{
+    color: green;
+}
+.illustraction{
+    position: absolute;
+    width: 1350px;
+    height: 570px;
+    left: 0px;
+    top: 0px;
+    background: #F0FFF0;
+}
+.learn{
+    font-size: 50px;
+    
+}
+.align{
+    left: 75px;
+    top: 50px;
+    line-height: 60px;
+
+}
+h6{
+    color: grey;
+}
+.container{
+    margin-top: 130px;
+}
+.text-content{
+    text-align: center;
+}
