@@ -12,13 +12,11 @@
 }
 .learn{
     font-size: 50px;
-    
 }
 .align{
     left: 75px;
     top: 50px;
     line-height: 60px;
-
 }
 h6{
     color: grey;
@@ -34,8 +32,6 @@ h6{
     border-radius: 10px;
     height: 80%;
     background-color: white;
-
-
 }
 .card{
     box-shadow: 10px 10px 40px gray;
@@ -51,12 +47,7 @@ p::before{
 h1{
     text-align: center;
 }
-.image-content{
-    left: 250px;
-}
-.second-content{
-    right: 200px;
-}
+
 footer{
     text-align: center;
     
@@ -65,6 +56,6 @@ footer{
     background-color: green;
     
 }
-h5{
-    text-decoration-color: white ;
-}
+
+    
+
