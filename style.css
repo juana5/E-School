@@ -1,4 +1,10 @@
+body{
+    overflow-x: hidden;
+}
 
+.bg-color{
+    background-color: #F0FFF0;
+}
 .schedule-color{
     color: green;
 }
@@ -27,7 +33,7 @@ h6{
 .text-content{
     text-align: center;
 }
-.div-border{
+.div-border:hover{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
     height: 80%;
@@ -37,12 +43,7 @@ h6{
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
     height: 80%;
-    background-color: white;
-    
-}
-p::before{
-    /* content: url(images/ICON/calendar.png); */
-    
+    background-color: white; 
 }
 h1{
     text-align: center;
@@ -55,6 +56,15 @@ footer{
 .h5-content{
     background-color: green;
     
+}
+.images{
+    text-align: center;
+}
+.text h5{
+    text-align: center;
+}
+.text h6{
+    text-align: center;
 }
 
     
